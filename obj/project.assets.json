@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\view_models_fun\\view_models_fun.csproj",
+      "projectUniqueName": "c:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\asp_mvc_two\\view_models_fun\\view_models_fun.csproj",
       "projectName": "view_models_fun",
-      "projectPath": "C:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\view_models_fun\\view_models_fun.csproj",
+      "projectPath": "c:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\asp_mvc_two\\view_models_fun\\view_models_fun.csproj",
       "packagesPath": "C:\\Users\\MTanzil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\view_models_fun\\obj\\",
+      "outputPath": "c:\\Users\\MTanzil\\Documents\\CodingDojo\\csharp_stack\\asp.net_core\\asp_mvc_two\\view_models_fun\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
